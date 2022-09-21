@@ -1,0 +1,6 @@
+@use "variables" as *;
+@mixin screenSize($screenWidth:800px){
+    @media screen and (min-width:$screenWidth){
+        @content;
+    }
+}
