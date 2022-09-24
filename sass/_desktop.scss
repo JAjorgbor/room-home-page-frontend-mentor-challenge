@@ -97,8 +97,7 @@
      margin:auto;
     }
     @include screenSize(){
-        margin:auto;
-        margin-block-start:5%;
+        margin:5% auto 5% auto;
         grid-row:1;
      grid-column:2/span 2;   
      width:80%;

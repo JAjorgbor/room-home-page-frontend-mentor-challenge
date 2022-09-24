@@ -86,11 +86,11 @@ transition:transform 1s;
 .bar{
     width:90%;
     height:3px;
-    margin-inline:auto;
+    
     background-color:$white;
     border-radius:10px;
     position:relative;
-    margin-block: 5px;
+    margin: 5px auto;
     transition:transform 1s, opacity 1s, background-color 2s;
 
 }
@@ -99,7 +99,7 @@ transition:transform 1s;
 }
 .opened-hamburger{
     position:fixed;
-    top:5%;
+    top:4.8%;
     
     transform:rotate(360deg);
     .bar{

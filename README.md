@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click here to see my solution](https://www.frontendmentor.io/solutions/responsive-room-ecomerce-landing-page-with-sass-and-vanilla-javascript-JkzM__koy-#comment-632ba22217bbaaaa1e7afcff)
+- Live Site URL: [cick here to see the live site](https://joshuaaj003.github.io/room-home-page-frontend-mentor-challenge/)
 
 ## My process
 
