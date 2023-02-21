@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click here to see my solution](https://www.frontendmentor.io/solutions/responsive-room-ecomerce-landing-page-with-sass-and-vanilla-javascript-JkzM__koy-#comment-632ba22217bbaaaa1e7afcff)
-- Live Site URL: [cick here to see the live site](https://joshuaaj003.github.io/room-home-page-frontend-mentor-challenge/)
+- Live Site URL: [cick here to see the live site](https://JAjorgbor.github.io/room-home-page-frontend-mentor-challenge/)
 
 ## My process
 
@@ -137,7 +137,7 @@ I would like to improve my method of making the carousel slide show in a way tha
 ## Author
 
 
-- Frontend Mentor - [@joshuaAj003](https://www.frontendmentor.io/profile/joshuaAj003)
+- Frontend Mentor - [@JAjorgbor](https://www.frontendmentor.io/profile/JAjorgbor)
 - Twitter - [@yourusername](https://www.twitter.com/jAjorgbor)
 
 
